@@ -5,6 +5,7 @@ Sorted by first name. Fun facts are load-bearing at this company.
 ## Team
 
 - **Ben Tran** — Data Analyst — fun fact: kept the retention autopsy.
+- **Henrik**
 - **Marcus Chen** — Engineering Manager — fun fact: reads everything, interrupts rarely.
 - **Nadia Okafor** — Senior Engineer — fun fact: watches the repo feed like sports.
 - **Sam** — Full-stack Engineer (departed) — fun fact: hired away — we're proud and furious.
